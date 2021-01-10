@@ -149,7 +149,7 @@ learned that I still do have to keep practicing with correctly guiding the conve
 the problem owner for example. I think the following points were my strengths/weaknesses during 
 this project:
 
-+) Easy to contact and open for feedback.
+(+) Easy to contact and open for feedback.
 + Dedicated to the team effort, making sure everyone is in good spirit.
 + Always ready to push himself to the limit when asked to.
 
