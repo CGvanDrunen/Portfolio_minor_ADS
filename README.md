@@ -84,7 +84,7 @@ In order to gain a basic understanding of how the iCEM (integrated energy contro
 from which we receive our data to train our models on the team was given the following 2 reports 
 by our problem owner:
 - ![Factory Zero June 2020 Report](Factory Zero June 2020 Report.pdf)
-- ![Factpry_Zero January 2020 Report](Factory_Zero January 2020 Report.pdf)
+- ![Factory_Zero January 2020 Report](Factory_Zero January 2020 Report.pdf)
 
 
 
