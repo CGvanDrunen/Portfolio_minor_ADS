@@ -138,5 +138,18 @@ Me and my team did a brainstorm session for each of the datasets for energy prod
 
 
 ### 11. Communication
-During this minor I have done all of the public presentations [Public Presentation week 4](Public_Presentation_week_4.pptx), [Public Presentation week 8](Public_Presentation_week_8.pptx), [Public Presentation week 12](Public_Presentation_week_12.pptx). I also did the open presentation [Open Presentation](Open_presentation_07-01-21.pptx) and lunch presentation at the TU Delft [Lunch presentation_TU_Delft](Lunch_presentation_TU_Delft_14-12-20.pptx) near the end of the minor together with my colleague Levy Duivenvoorden. I wanted to do this because I wanted to reach an audience from which you do not always know what kind of questions you can expect, which helps with creating a more open mindset. 
+During this minor I have done all of the public presentations [Public Presentation week 4](Public_Presentation_week_4.pptx), 
+[Public Presentation week 8](Public_Presentation_week_8.pptx), [Public Presentation week 12](Public_Presentation_week_12.pptx). 
+I also did the open presentation [Open Presentation](Open_presentation_07-01-21.pptx) 
+and lunch presentation at the TU Delft [Lunch presentation_TU_Delft](Lunch_presentation_TU_Delft_14-12-20.pptx) 
+near the end of the minor together with my colleague Levy Duivenvoorden. I wanted to do 
+this because I wanted to reach an audience from which you do not always know what kind 
+of questions you can expect, which helps with creating a more open mindset. The tactic 
+me and my team had was that the one who presents will be the one to make the presentation, 
+however there was a moment for feedback usually on the day of the presentation after the 
+daily stand-up. When presentations were done with 2 people it was often split up in 2 
+parts, for which both students were individually responsible for making the slides etc. 
+In both dual presentations I ended up introducing the topic, explaining what models we 
+applied and what our data looked like. Levy would then show the results and close the 
+presentation.
 
