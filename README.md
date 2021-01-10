@@ -150,12 +150,18 @@ the problem owner for example. I think the following points were my strengths/we
 this project:
 
 (+) Easy to contact and open for feedback.
-+ Dedicated to the team effort, making sure everyone is in good spirit.
-+ Always ready to push himself to the limit when asked to.
 
-- Tends to deviate from the topic often during meetings with the problem owner
-- Has to practice setting goals for himself and learn to achieve them effectively on a more personal level outside of the team effort
-- Tends to fall to the background in big group efforts
+(+) Dedicated to the team effort, making sure everyone is in good spirit.
+
+(+) Always ready to push himself to the limit when asked to.
+
+
+
+(-) Tends to deviate from the topic often during meetings with the problem owner
+
+(-) Has to practice setting goals for himself and learn to achieve them effectively on a more personal level outside of the team effort
+
+(-) Tends to fall to the background in big group efforts
 
 
 ### 11. Communication
