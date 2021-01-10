@@ -40,7 +40,7 @@ the following research question:
 production of a “zero at the meter” residential house, one day in advance
 with (if possible) hourly resolution?*
 
-The team then went on to find literature (Appendix III) on the topic of
+The team then went on to find literature (![Literature Review](Literature_Review.xlsx)) on the topic of
 predicting residential energy consumption & production to find suitable
 models to try out. The following models were implemented: MVLR (Multi Variate
 Linear Regression), SVR (Support Vector Regression), LSTM (Long Short-Term
