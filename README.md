@@ -60,8 +60,14 @@ model is needed in order to answer the team’s research question. Our goal
 is to predict 1 day ahead the energy production & consumption of a NZEB,
 short for net zero energy building, thus a time-series regression model is 
 required in any case. The team then decided that everyone should try to find 
-about 5 articles 
-
+about 5 articles and place them in the Excel file I referred to earlier
+![Literature Review](Literature_Review.xlsx), together with a short summary 
+of the contents. The document reveals that I have found the following articles:
+*Machine Learning-Based Approach to Predict Energy Consumption of Renewable and Nonrenewable Power Sources*
+*Predicting Energy Consumption of a House using Neural Network*
+*Forecasting Energy Consumption of a House using Radial Basis Function Network*
+*A granular deep learning approach for predicting energy consumption*
+*Predicting energy consumption: A multiple decomposition-ensemble approach*
 
 
 
