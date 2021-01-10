@@ -22,4 +22,7 @@ the 1 week divergency. Obviously this is not the right way to deal with
 delay, but due to the work pressure of the minor besides the Datacamp
 courses it ended up being this way.
 ![Datacamp](Datacamp.PNG)
-
+On the side I also did the first 2 chapters of the course Introduction to
+Deep Learning with Pytorch, which is a course that was advised by one of
+our teachers to help getting familiar with Neural Networks. 
+![Datacamp_Extra](Datacamp_Extra.PNG)
