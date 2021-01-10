@@ -4,7 +4,7 @@ Student number: 18062814
 ## Index
 1) Global View of Contributions
 2) Datacamp Courses
-3) Research Project
+3) Project Introduction
 4) Domain Knowledge
 5) Data Collection
 6) Data Preperation
@@ -39,7 +39,7 @@ our teachers to help getting familiar with Neural Networks.
 
 ![Datacamp_Extra](Datacamp_Extra.PNG)
 
-### 3. Research Project
+### 3. Project Introduction
 In this chapter the main goal and findings of the project I contributed to
 will shortly be discussed. For the planning of the project however I would
 like to refer to the chapter ‘Planning & Deadlines’ in ![Starting Document](Onderzoeksplan_ND.pdf).
@@ -134,12 +134,28 @@ calculation that has to be made for energy consumption as mentioned in the last 
 
 Me and my team did a brainstorm session for each of the datasets for energy production & consumption where we discussed what kind of features could be of use and made several correlation matrices to see which of the features were best to use *ins link to notebook*
 
+### 6. Data Preperation
+
+
+
+### 7. Data Visualisation
+
+
+
+### 8. Predictive Models
+
+
+
+### 9. Evaluation
+
+
 
 ### 10. Diagnostics of the Learning Process
 One of my prime objectives this minor was to gain more experience with programming in python, 
 which I believe I have achieved succesfully. I have learned a lot about both machine learning 
-and neural network models and helped to design them. I also learned to master the Navigator & 
-Driver code writing method, where I learned to both code properly and effectively search for 
+and neural network models and helped to design them. I practiced with presenting infront of 
+a wide audience this minor, which is always welcome. I also learned to master the Navigator 
+& Driver code writing method, where I learned to both code properly and effectively search for 
 answers on the web. However I do believe that I have backed down slightly from being the Driver 
 due to other teammates being more enthusiastic. During the minor I also was assigned the role 
 of semi-chairman, which means I had to be the go-to contact person for external & internal 
@@ -149,11 +165,11 @@ learned that I still do have to keep practicing with correctly guiding the conve
 the problem owner for example. I think the following points were my strengths/weaknesses during 
 this project:
 
-(+) Easy to contact and open for feedback.
+(+) Easy to contact and open for feedback
 
-(+) Dedicated to the team effort, making sure everyone is in good spirit.
+(+) Dedicated to the team effort, making sure everyone is in good spirit
 
-(+) Always ready to push himself to the limit when asked to.
+(+) Always ready to push himself to the limit when asked to
 
 
 
