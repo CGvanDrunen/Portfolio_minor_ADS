@@ -27,3 +27,28 @@ Deep Learning with Pytorch, which is a course that was advised by one of
 our teachers to help getting familiar with Neural Networks. 
 
 ![Datacamp_Extra](Datacamp_Extra.PNG)
+
+### 2. Research Project
+In this chapter the main goal and findings of the project I contributed to
+will shortly be discussed. For the planning of the project however I would
+like to refer to the chapter ‘Planning & Deadlines’ in Appendix I.
+The problem the team has to solve is offered by the company Factory Zero,
+delivered to us by the problem owner Salcedo Rahola Baldiri and resulted in
+the following research question:
+
+*What is a suitable machine learning model to predict energy use &
+production of a “zero at the meter” residential house, one day in advance
+with (if possible) hourly resolution?*
+
+The team then went on to find literature (Appendix III) on the topic of
+predicting residential energy consumption & production to find suitable
+models to try out. The following models were implemented: MVLR (Multi Variate
+Linear Regression), SVR (Support Vector Regression), LSTM (Long Short-Term
+Memory) and MLP (Multi-Layer Perceptron).
+The conclusion of the project is that out of the 4 models LSTM the best
+predictions makes for both energy production & consumption. More on the
+exact performances of the models in chapter 4 Predictive Models. However
+there are still a couple of things left to experiment with, for example
+using a simple classification model to classify peaks in the consumption
+data and then feeding the non-peak data and peak data to 2 separate models
+to make a better prediction.
