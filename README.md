@@ -31,7 +31,7 @@ our teachers to help getting familiar with Neural Networks.
 ### 2. Research Project
 In this chapter the main goal and findings of the project I contributed to
 will shortly be discussed. For the planning of the project however I would
-like to refer to the chapter ‘Planning & Deadlines’ in Appendix I.
+like to refer to the chapter ‘Planning & Deadlines’ in ![Starting Document](Onderzoeksplan_ND.PDF).
 The problem the team has to solve is offered by the company Factory Zero,
 delivered to us by the problem owner Salcedo Rahola Baldiri and resulted in
 the following research question:
@@ -52,3 +52,14 @@ there are still a couple of things left to experiment with, for example
 using a simple classification model to classify peaks in the consumption
 data and then feeding the non-peak data and peak data to 2 separate models
 to make a better prediction.
+
+
+
+
+
+
+
+
+
+
+
