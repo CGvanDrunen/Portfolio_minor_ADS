@@ -1,4 +1,4 @@
 # Portfolio_minor_ADS
-Contains my personal portfolio for the minor Applied Data Science 
-### Kaas
-meerdere vormen van kaas
+Name: Niels van Drunen
+Student number: 18062814
+
