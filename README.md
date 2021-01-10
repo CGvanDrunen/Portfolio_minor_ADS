@@ -135,6 +135,27 @@ calculation that has to be made for energy consumption as mentioned in the last 
 Me and my team did a brainstorm session for each of the datasets for energy production & consumption where we discussed what kind of features could be of use and made several correlation matrices to see which of the features were best to use *ins link to notebook*
 
 
+### 10. Diagnostics of the Learning Process
+One of my prime objectives this minor was to gain more experience with programming in python, 
+which I believe I have achieved succesfully. I have learned a lot about both machine learning 
+and neural network models and helped to design them. I also learned to master the Navigator & 
+Driver code writing method, where I learned to both code properly and effectively search for 
+answers on the web. However I do believe that I have backed down slightly from being the Driver 
+due to other teammates being more enthusiastic. During the minor I also was assigned the role 
+of semi-chairman, which means I had to be the go-to contact person for external & internal 
+sources and lead the conversations with them. According to the feedback I received during the 
+360% feedback sessions that me and my team had at the start and near the end of the minor I 
+learned that I still do have to keep practicing with correctly guiding the conversation with 
+the problem owner for example. I think the following points were my strengths/weaknesses during 
+this project:
+
++ Easy to contact and open for feedback.
++ Dedicated to the team effort, making sure everyone is in good spirit.
++ Always ready to push himself to the limit when asked to.
+
+- Tends to deviate from the topic often during meetings with the problem owner
+- Has to practice setting goals for himself and learn to achieve them effectively on a more personal level outside of the team effort
+- Tends to fall to the background in big group efforts
 
 
 ### 11. Communication
