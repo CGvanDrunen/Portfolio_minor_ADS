@@ -69,7 +69,7 @@ In order to do qualitive research on which models are suggested by
 external sources, it is important to first identify clearly what kind of
 model is needed in order to answer the team’s research question. Our goal
 is to predict 1 day ahead the energy production & consumption of a NZEB,
-short for net zero energy building, thus a time-series regression model is 
+short for net zero energy building, thus a time-series based regression model is 
 required in any case. The team then decided that everyone should try to find 
 about 5 articles and place them in the Excel file I referred to earlier
 ![Literature Review](Literature_Review.xlsx), together with a short summary 
