@@ -64,10 +64,15 @@ about 5 articles and place them in the Excel file I referred to earlier
 ![Literature Review](Literature_Review.xlsx), together with a short summary 
 of the contents. The document reveals that I have found the following articles:
 - *Machine Learning-Based Approach to Predict Energy Consumption of Renewable and Nonrenewable Power Sources*
+> Researchgate
 - *Predicting Energy Consumption of a House using Neural Network*
+> Researchgate
 - *Forecasting Energy Consumption of a House using Radial Basis Function Network*
+> Researchgate
 - *A granular deep learning approach for predicting energy consumption*
+> Researchgate
 - *Predicting energy consumption: A multiple decomposition-ensemble approach*
+> Researchgate
 
 
 
