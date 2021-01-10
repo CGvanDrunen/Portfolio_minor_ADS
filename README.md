@@ -25,4 +25,5 @@ courses it ended up being this way.
 On the side I also did the first 2 chapters of the course Introduction to
 Deep Learning with Pytorch, which is a course that was advised by one of
 our teachers to help getting familiar with Neural Networks. 
+
 ![Datacamp_Extra](Datacamp_Extra.PNG)
