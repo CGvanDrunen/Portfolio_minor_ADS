@@ -73,6 +73,7 @@ of the contents. The document reveals that I have found the following articles:
 > Researchgate
 - *Predicting energy consumption: A multiple decomposition-ensemble approach*
 > Researchgate
+
 My intent was to see whether it was worthwhile to try contact the authors of 
 the papers via ResearchGate for the papers, which turned out to be not the case.
 After about a week of waiting and no response I then went on to try and find the 
