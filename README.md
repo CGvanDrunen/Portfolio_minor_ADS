@@ -138,5 +138,5 @@ Me and my team did a brainstorm session for each of the datasets for energy prod
 
 
 ### 11. Communication
-During this minor I have done all of the public presentations ([Public Presentation week 4](Public Presentation week 4.pptx),[Public Presentation week 8](Public Presentation week 8.pptx),[Public Presentation week 12](Public Presentation week 12.pptx))and done the open presentation [Open Presentation](Open_presentation_07-01-21.pptx) near the end of the minor together with my colleague Levy Duivenvoorden. I wanted to do this because I wanted to reach an audience from which you do not always know what kind of questions you can expect, which helps with creating a more open mindset. 
+During this minor I have done all of the public presentations ( [Public Presentation week 4](Public Presentation week 4.pptx),[Public Presentation week 8](Public Presentation week 8.pptx),[Public Presentation week 12](Public Presentation week 12.pptx) )and done the open presentation [Open Presentation](Open_presentation_07-01-21.pptx) near the end of the minor together with my colleague Levy Duivenvoorden. I wanted to do this because I wanted to reach an audience from which you do not always know what kind of questions you can expect, which helps with creating a more open mindset. 
 
