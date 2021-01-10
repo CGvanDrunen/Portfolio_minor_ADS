@@ -40,7 +40,7 @@ the following research question:
 production of a “zero at the meter” residential house, one day in advance
 with (if possible) hourly resolution?*
 
-The team then went on to find literature (![Literature Review](Literature_Review.xlsx)) on the topic of
+The team then went on to find literature ![Literature Review](Literature_Review.xlsx) on the topic of
 predicting residential energy consumption & production to find suitable
 models to try out. The following models were implemented: MVLR (Multi Variate
 Linear Regression), SVR (Support Vector Regression), LSTM (Long Short-Term
@@ -53,7 +53,14 @@ using a simple classification model to classify peaks in the consumption
 data and then feeding the non-peak data and peak data to 2 separate models
 to make a better prediction.
 
-
+### Domain Knowledge
+In order to do qualitive research on which models are suggested by
+external sources, it is important to first identify clearly what kind of
+model is needed in order to answer the team’s research question. Our goal
+is to predict 1 day ahead the energy production & consumption of a NZEB,
+short for net zero energy building, thus a time-series regression model is 
+required in any case. The team then decided that everyone should try to find 
+about 5 articles 
 
 
 
