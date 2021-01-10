@@ -21,5 +21,5 @@ probably caused by delay I received in the first week of the minor, hence
 the 1 week divergency. Obviously this is not the right way to deal with
 delay, but due to the work pressure of the minor besides the Datacamp
 courses it ended up being this way.
-![Datacamp](Datacamp.png)
+![Datacamp](Datacamp.PNG)
 
