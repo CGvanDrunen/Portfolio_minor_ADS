@@ -20,7 +20,7 @@ I have,
 2) done most of the external presentations.
 3) set up a starting document ![Starting Document](Onderzoeksplan_ND.pdf) for our group containing basic information on the topic of our goals and deadlines to be met.
 4) led most of our conversations with our problem owner, informing him about our progress using Microsoft Sway (chapter 11) and asking for his opinion.
-5) been navigator many times whilst working on the SVR, MLP and LSTM. Which means my task was to search for information on the code the driver is writing. This proved to be a highly efficient way of writing code in duos.
+5) been navigator many times whilst working on the SVR, MLP and LSTM. Which means my task was to search for information on the code the driver is writing. This proved to be a highly efficient way of writing code in duos (chapter 5).
 6) been driver when we first started on a MVLR on energy production, the results of this are displayed and discussed in chapter 5.
 7) worked together with Levy on finding various ways to verify our model’s performance by doing a literature study on for example various Loss Functions (chapter 5). 
 
@@ -96,6 +96,11 @@ from which we receive our data to train our models on the team was given the fol
 by our problem owner:
 - ![Factory Zero June 2020 Report](Factory_Zero_June_2020_Report.pdf)
 - ![Factory Zero January 2020 Report](Factory_Zero_January_2020_Report.pdf)
+
+An important conclusion that was derived from these reports is that in order 
+to predict energy consumption a short calculation has to be done:
+> Energy Consumption = Smart_in + Solar_out − Smart_out
+
 
 
 
