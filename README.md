@@ -153,7 +153,7 @@ In both dual presentations I ended up introducing the topic, explaining what mod
 applied and what our data looked like. Levy would then show the results and close the 
 presentation.
 
-Another form of communication i had to attend to were the weekly meetings with our 
+Another form of communication I had to attend to were the weekly meetings with our 
 problem owner Salcedo Rahola Baldiri. After week 7 until week 15 my task was to make 
 MC Sway online files through which to briefly present our progress with to our problem 
 owner. I also had to lead the conversation and whenever a topic was met that someone 
@@ -161,7 +161,7 @@ else had worked more on I had to make sure they got their time to explain their 
 Below is a table with the sway links for each week, though I must mention that these 
 files can only be accessed through their URLs and there does not seem to be any other 
 way in which to store them properly. Adding to this you must also log into your HHS 
-microsoft account in order to get access, I want to apologise for this inconvenience. 
+microsoft account in order to get access, I want to apologise greatly for this inconvenience. 
 
 Week | URL
 -----|-----
@@ -180,4 +180,4 @@ energy production. I also helped introducing where our data comes from (the part
 and where we got weather data from in Data Collection. Adding to that I rewrote some parts 
 of Data cleaning, mainly to make the text more compact but also adding information such as 
 that we flattened some of the negative consumption data to 0 and why we did so. I also 
-added to the chapter Data Cleaning the reason why we selected only 10% of the data to test on. 
+added to the chapter Data Cleaning the reason why we selected only 10% of the data to test on.
