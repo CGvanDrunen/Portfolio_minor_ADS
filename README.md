@@ -153,3 +153,31 @@ In both dual presentations I ended up introducing the topic, explaining what mod
 applied and what our data looked like. Levy would then show the results and close the 
 presentation.
 
+Another form of communication i had to attend to were the weekly meetings with our 
+problem owner Salcedo Rahola Baldiri. After week 7 until week 15 my task was to make 
+MC Sway online files through which to briefly present our progress with to our problem 
+owner. I also had to lead the conversation and whenever a topic was met that someone 
+else had worked more on I had to make sure they got their time to explain their progress. 
+Below is a table with the sway links for each week, though I must mention that these 
+files can only be accessed through their URLs and there does not seem to be any other 
+way in which to store them properly. Adding to this you must also log into your HHS 
+microsoft account in order to get access, I want to apologise for this inconvenience. 
+
+Week | URL
+-----|-----
+7 | https://sway.office.com/Y3yBNdQVvj8LC8yH?ref=Link&loc=mysways
+8 | https://sway.office.com/A99ggXV3vnFWfQoI?ref=Link&loc=mysways
+9 | https://sway.office.com/FLRTo3mPuWw1Izuj?ref=Link&loc=mysways
+10 | https://sway.office.com/BJVCOv5gPlFBvciM?ref=Link&loc=mysways
+11 | https://sway.office.com/Lbpw4YyPIXtn65eV?ref=Link&loc=mysways
+12 | https://sway.office.com/rt1wyP4MqHk8oOnT?ref=Link&loc=mysways
+13 | https://sway.office.com/sEvhM5qpC4nLLkHp?ref=Link&loc=mysways
+14 | https://sway.office.com/25SqetqrzpOTvsGl?ref=Link&loc=mysways
+15 | https://sway.office.com/volb8rfWcG7HRCnX?ref=Link&loc=mysways
+
+When it came to writing our paper I wrote a great part of the methodology concerning 
+energy production. I also helped introducing where our data comes from (the part about the iCEM), 
+and where we got weather data from in Data Collection. Adding to that I rewrote some parts 
+of Data cleaning, mainly to make the text more compact but also adding information such as 
+that we flattened some of the negative consumption data to 0 and why we did so. I also 
+added to the chapter Data Cleaning the reason why we selected only 10% of the data to test on. 
