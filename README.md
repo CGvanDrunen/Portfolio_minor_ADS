@@ -53,7 +53,7 @@ using a simple classification model to classify peaks in the consumption
 data and then feeding the non-peak data and peak data to 2 separate models
 to make a better prediction.
 
-### Domain Knowledge
+### 3. Domain Knowledge
 In order to do qualitive research on which models are suggested by
 external sources, it is important to first identify clearly what kind of
 model is needed in order to answer the team’s research question. Our goal
@@ -80,7 +80,11 @@ After about a week of waiting and no response I then went on to try and find the
 papers elsewhere via Google Scholar, which I was succesful in and found an exact 
 copy of the papers far more easily available on Sciencedirect. 
 
-
+In order to gain a basic understanding of how the iCEM (integrated energy control module) works 
+from which we receive our data to train our models on the team was given the following 2 reports 
+by our problem owner:
+- ![Factory Zero June 2020 Report](Factory_Zero_June_2020_Report.pdf)
+- ![Factpry_Zero January 2020 Report](Factory_Zero_January_2020_Report.pdf)
 
 
 
