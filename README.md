@@ -128,7 +128,7 @@ located in Zoetermeer (Zuid Holland, Netherlands) from the year 2019. This data 
 delivered to the team in the form of 120 Excel files each containing several 
 worksheets, 1 for each integrated meter in the iCEM. For the energy production of 
 the house only the worksheet Solar was of importance, from which the feature Solar_out 
-was extracted, representing the total energy produced by the NZEB. For energy production 
+was extracted, representing the total energy produced by the NZEB. For energy consumption 
 2 worksheets were of importance, that of the SmartMeter and that of Solar, due to the 
 calculation that has to be made for energy consumption as mentioned in the last chapter. 
 
@@ -136,4 +136,7 @@ Me and my team did a brainstorm session for each of the datasets for energy prod
 
 
 
+
+### 11. Communication
+During this minor I have done all of the public presentations ([Public Presentation week 4](),[Public Presentation week 8](),[Public Presentation week 12]())and done the open presentation [Open Presentation]() near the end of the minor together with my colleague Levy Duivenvoorden. I wanted to do this because I wanted to reach an audience from which you do not always know what kind of questions you can expect, which helps with creating a more open mindset. 
 
