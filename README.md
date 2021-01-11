@@ -49,7 +49,7 @@ Factory Zero has the goal to create sustainable residential houses that
 generate equally as much energy as the produce on a yearly basis. In order 
 to guarantee their customers that their house is truly "zero at the meter" 
 the company wanted to find a way in which effectively predict the energy 
-production & consumption of one such NZEB (short for net zero energy building). 
+production & consumption of one such NZEB (short for net zero emission building). 
 The data received by the team consists of all the meter data trasmitted from 
 the intregrated Climate Energy Modules (iCEM) from each of the 120 (identical) 
 NZEBs located in Zoetermeer (Zuid Holland, Netherlands) from the year 2019, more on this in chapter 4.
@@ -77,7 +77,7 @@ In order to do qualitive research on which models are suggested by
 external sources, it is important to first identify clearly what kind of
 model is needed in order to answer the team’s research question. Our goal
 is to predict 1 day ahead the energy production & consumption of a NZEB,
-short for net zero energy building, thus a time-series based regression model is 
+short for net zero emission building, thus a time-series based regression model is 
 required in any case. The team then decided that everyone should try to find 
 about 5 articles and place them in the Excel file I referred to earlier
 ![Literature Review](Literature_Review.xlsx), together with a short summary 
