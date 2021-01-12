@@ -193,9 +193,9 @@ one is coding.
 #### LSTM production
 In week 15 the team and I had just finished writing a more simpel and understandable version of LSTM 
 we already had. Since the one we made together with Brian had become a mess in which we did not know 
-how to improve. My job was to make the new LSTM work for the production data of 1 house. During this 
-process me and my teammate Jefry el Bhwash who was working on the consumption LSTM parallel to me ran 
-into a couple of problems:
+how to improve. My job was to make the new LSTM work for the production data of 1 house, I made the 
+following notebook [W15_LSTM_productionV03](W15_LSTMProductionSimpleV03.pdf). During this process me and my teammate Jefry el Bhwash who was working on 
+the consumption LSTM parallel to me ran into a couple of problems:
 
 - How to scale the data back after it went through the model
 - How to properly feed the tensors to the LSTM (how to adjust the dim3 function properly since it was mostly made by dhr. Vuurens)
