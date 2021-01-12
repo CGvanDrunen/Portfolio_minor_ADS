@@ -51,8 +51,8 @@ the company wanted to find a way in which effectively predict the energy
 production & consumption of one such NZEB (short for net zero emission building). 
 The data received by the team consists of all the meter data trasmitted from 
 the intregrated Climate Energy Modules (iCEM) from each of the 120 (identical) 
-NZEBs located in Zoetermeer (Zuid Holland, Netherlands) from the year 2019, more on this in chapter 4.
-This resulted in the following research question:
+NZEBs located in Zoetermeer (Zuid Holland, Netherlands) from the year 2019, 
+more on this in chapter 4. This resulted in the following research question:
 
 *What is a suitable machine learning model to predict energy use &
 production of a “zero at the meter” residential house, one day in advance
@@ -154,14 +154,25 @@ which would be a MVLR SVR. In order to know which houses to use for our dataset 
 had to get a clear overview of the amount of inconsistencies within the data per house. 
 We decided to do this through making a heatmap of the columns within the worksheets we 
 thought were perhaps useful for energy production at the time. Together with my teammate 
-Levy Duivenvoorden we made the following notebook [Heatmap_v1](Heatmap_np.pdf) which 
-used to contain also the first heatmap we made where we also showed the houses that are 
-now left out (marked white) due to too high quantity timestamp difference. However due 
-to a mistake by me I later wrote the code over and made the final heatmap which is 
-displayed bellow. 
+Levy Duivenvoorden we made the following notebook [Heatmap_production](Heatmap_np.pdf) which 
+contains the code for the first heatmap we made, where we also showed the houses that are 
+now left out (marked white) due to too high quantity of timestamp gaps greater than 1 hr shown below
 
-![Heatmap_production](Heatmap_production.png)
+![Heatmap_production_v1](Heatmap_production_wild.png)
+The final heatmap we made for production is desplayed below.
 
+![Heatmap_production_v2](Heatmap_production.png)
+In the code I am mostly responsible for adjusting the appearance of the heatmap by 
+selecting the best colormap, also making sure its readable by adjusting the axis. 
+During the making of this heatmap I was navigator, thus meaning I was busy looking 
+things up such as making a heatmap in seaborn, how to adjust heatmap axis in seaborn, 
+what colormaps there are available etc.
+
+Once we started working more with energy consumption in week 11 we also wanted a heatmap to be made, 
+this time since I already had most of the code I copied most from last notebook and selected different 
+columns to display. From this notebook [Heatmap_consumption](W11_Heatmap_np_Consumption.pdf) the final heatmap is shown below.
+
+![Heatmap_consumption](Heatmap_consumption.png)
 ### 7. Predictive Models
 
 
