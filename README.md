@@ -135,18 +135,21 @@ Me and my team did a brainstorm session for each of the datasets for energy prod
 
 ### 6. Data Preperation & Visualisation
 During the first 7 weeks of the minor the main tasks we focussed on were that of the 
-weekly tasks our problem owner gave to us. These tasks concerned things like visualising 
-the production & consumption data in order to see whether on a yearly scale the houses 
-were truly 'net zero'. We also discussed things like the appropriate resampling method, 
-where we learned that there is a difference in resample().mean() and resampe().sum() etc. 
-During these first few weeks the team was often more busy with Datacamp and getting 
-familliar with the data, and back then we did not split up tasks too much yet. The tasks 
-that were split up and given to me, or for a great part to me, I will discuss here. Aswell 
-as the other visualisations and help I offered with data preparation after week 8 of the 
-minor when the team started working on models.
+weekly tasks our problem owner gave to us and finding literature. These tasks concerned 
+things like visualising the production & consumption data in order to see whether on a 
+yearly scale the houses were truly 'net zero'. We also discussed things like the 
+appropriate resampling method, where we learned that there is a difference in 
+resample().mean() and resampe().sum() etc. During these first few weeks the team was 
+often more busy with Datacamp and getting familliar with the data, and back then we 
+did not split up tasks too much yet. The tasks that were split up and given to me, 
+or for a great part to me, I will discuss here. Aswell as the other visualisations 
+and help I offered with data preparation after week 8 of the minor when the team 
+started working on models.
+
+When we dirst started analysing the data we discorvered that there were huge spikes in the data, timestamp gaps that would sometimes cover a couple of days 
 
 #### 6a Heatmap
-
+Nearing week 8 of the minor the team started moving towards making our first model, which would be a MVLR. In order to know which houses to use for our dataset we had to get a clear overview of the amount of inconsistencies within the data per house. We decided to do this through making a heatmap of the columns within the worksheets we thought were perhaps useful for energy production at the time. Together with my teammate Levy Duivenvoorden we made the following notebook [Heatmap_v1](Heatmap_np.pdf) which used to contain also the first heatmap we made where we also showed the houses that are now left out (marked white) due to too high quantity timestamp difference. However due to a mistake by me I later wrote the code over and made the final heatmap which is displayed there. 
 
 ### 7. Predictive Models
 
