@@ -146,7 +146,26 @@ or for a great part to me, I will discuss here. Aswell as the other visualisatio
 and help I offered with data preparation after week 8 of the minor when the team 
 started working on models.
 
-In week 11 my teammate Jefry el Bwhash and I looked at potential features for a more advanced dataset of energy consumption. We made a pairplot of several features we thought could be of use, described in the following notebook [W11_PairplotConsumption](W11_PairplotConsumption.pdf). 
+As I mentioned before in the chapter 1 I was driver whilst making our first MVLR for 
+energy production. However in advance of building the model me and my teammate Jefry 
+el Bwhash first had to figure out which features were best to use. In order to do so 
+we made a pairplot with the Seaborn library which is documented in the following 
+notebook [W8_CorrMatrix](W8_PearsonCorrMatrix.pdf). We thought we could choose temperature in combination with irradiance 
+due to the reasonably low spearman correlation 0.49. What was slightly surprising is 
+that the solar energy production of the past day has a relatively high correlation with 
+the current energy production. As a result we chose the following features: hourly 
+energy production (s_delta), hourly energy production shifted 24, 48 and 72 hours in 
+the past (solar_T-24, solar_T-48, solar_T-72), solar irradiance shifted 24, 48 an 72 
+hours in the past (straling_T-24, straling_T-48, straling_T-72) and the temperature 
+shifted 24, 48 and 72 hours in the past (temperature_T-24, temperature_T-48, 
+temperature_T-72). We thought we could choose temperature in combination with 
+irradiance due to the reasonably low spearman correlation 0.49. 
+
+In week 11 my teammate Jefry el Bwhash and I looked at potential features for a 
+more advanced dataset of energy consumption. We made a pairplot of several features 
+we thought could be of use, described in the following notebook [W11_PairplotConsumption](W11_PairplotConsumption.pdf). 
+In the final energy consumption LSTM we made we used however only hour of the day, 
+day of the week and consumption in the dataset. 
 
 #### 6a Heatmap
 Nearing week 8 of the minor the team started moving towards making our first model, 
