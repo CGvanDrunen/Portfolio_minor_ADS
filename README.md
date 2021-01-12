@@ -18,9 +18,9 @@ I have,
 1) done all of the mandatory Datacamp courses prescribed by the minor, together with the first part of another course we found along the way: 2/4 chapters of Introduction to Deep Learning with PyTorch (chapter 2).
 2) done most of the external presentations.
 3) set up a starting document ![Starting Document](Onderzoeksplan_ND.pdf) for our group containing basic information on the topic of our goals and deadlines to be met.
-4) led most of our conversations with our problem owner, informing him about our progress using Microsoft Sway (chapter 11) and asking for his opinion.
-5) been navigator many times whilst working on the SVR, MLP and LSTM. Which means my task was to search for information on the code the driver is writing. This proved to be a highly efficient way of writing code in duos (chapter 8).
-6) been driver when we first started on a MVLR on energy production, the results of this are displayed and discussed in chapter 8.
+4) led most of our conversations with our problem owner, informing him about our progress using Microsoft Sway (chapter 10) and asking for his opinion.
+5) been navigator many times whilst working on the SVR, MLP and LSTM. Which means my task was to search for information on the code the driver is writing. This proved to be a highly efficient way of writing code in duos (chapter 7).
+6) been driver when we first started on a MVLR on energy production and made the final LSTM for energy production, the results of this are displayed and discussed in chapter 7.
 7) worked together with Levy on finding various ways to verify our model’s performance by doing a literature study on for example various Loss Functions (chapter 8). 
 
 ### 2. Datacamp Courses
