@@ -159,6 +159,7 @@ contains the code for the first heatmap we made, where we also showed the houses
 now left out (marked white) due to too high quantity of timestamp gaps greater than 1 hr shown below
 
 ![Heatmap_production_v1](Heatmap_production_raw.png)
+
 The final heatmap we made for production is desplayed below.
 
 ![Heatmap_production_v2](Heatmap_production.png)
@@ -173,6 +174,12 @@ this time since I already had most of the code I copied most from last notebook 
 columns to display. From this notebook [Heatmap_consumption](W11_Heatmap_np_Consumption.pdf) the final heatmap is shown below.
 
 ![Heatmap_consumption](Heatmap_consumption.png)
+
+#### 6b production data visualisation
+Here I just wanted to quickly mention the graph I made for the production data to be put into the paper.
+
+![production_yeardata_plot](production_yeardata_paper.png)
+
 ### 7. Predictive Models
 
 
