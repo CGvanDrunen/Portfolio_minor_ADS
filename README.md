@@ -191,7 +191,55 @@ one is coding.
 
 
 #### LSTM production
+In week 15 the team and I had just finished writing a more simpel and understandable version of LSTM 
+we already had. Since the one we made together with Brian had become a mess in which we did not know 
+how to improve. My job was to make the new LSTM work for the production data of 1 house. During this 
+process me and my teammate Jefry el Bhwash who was working on the consumption LSTM parallel to me ran 
+into a couple of problems:
 
+- How to scale the data back after it went through the model
+- How to properly feed the tensors to the LSTM (how to adjust the dim3 function properly since it was mostly made by dhr. Vuurens)
+- Does making the data stationary have a positive effect?
+
+After asking one of our teachers (dhr. Vuurens) for help we got it to work. The LSTM data now has not been 
+made stationary, although it was advised by dhr. Vuurens. I ended up not making the data stationary due 
+to the fact the model would end up with a worse R2-score and Loss. Making the data stationary is also a 
+trick one would rather introduce when the data is in a clear upward or downward trend. But since we slide 
+over the data in a window of 1 week, the change in average energy production due to the change of seasons 
+is barely felt by the model. Since the changing of seasons is something that often is not felt during the 
+timespan of a week but rather over a month or 2. It could be that when increasing the window at which the 
+data is read, say to a month or 2, making the data stationary will become mandatory but as for now it only 
+seems to have a negative effect. Added to the model was a learning rate scheduler in order for the model 
+to increasing and decrease the learningrate whilst training, also resetting the learning rater after every 
+10 epochs so the model makes multiple learning rate iterations. For the loss function the SmoothL1Loss 
+(a.k.a. Huber Loss) has been chosen, since the data consists of daily spikes that are to be predicted. The 
+Huber Loss should make sure the model does not neglect the peaks but also does not overfit on the night hours 
+since this loss function is more robust against sudden high values in the data. The same production data 
+displayed earlier in paragraph 6b has been used. Below the loss, r2 score and prediction over the 
+validation data are displayed, together with the head of the dataset used here. I do want to mention that 
+our intent was to also use irradiance shifted 24 hours in the past as a feature. We did do this, but in the 
+code for the LSTM on production for multiple houses since we first wanted to see if the model works to begin 
+with.
+
+##### Dataset used
+
+![]()
+
+##### Loss for 100 epochs
+
+![Loss_LSTM_productionV03](Loss_LSTM_productionV03.png)
+
+##### Prediction on the validation data
+
+![Valid_LSTM_productionV03](Valid_LSTM_productionV03.png)
+
+##### R2 score on the validation data 
+
+![R2_LSTM_productionV03](R2_LSTM_productionV03.png)
+
+When we wanted to finish these models we were nearing the christmas holidays so we were in a rush to 
+complete them, therefore there are a couple of things that I would still like to try out such as increasing 
+the window size. 
 
 
 ### 8. Evaluation
