@@ -12,6 +12,7 @@ Student number: 18062814
 8) Evaluation
 9) Diagnostics of the Learning Process
 10) Communication
+11) Wind-up
 
 ### 1. Global View of Contributions
 I have,
@@ -270,15 +271,37 @@ the window size.
 
 
 ### 8. Evaluation
-
-In order to properly be able to evaluate the performances of our models we need to define a number of errors with which to compare them with eachother. In week 12 my teammate Levy Duivenvoorden and I did a brief literature study in order to find a good way in which to measure each of the models performances. We found most of the documentation on the website of [Pytorch](https://pytorch.org/docs/stable/nn.html#loss-functions). This resulted in the following list of errors:
+#### 8.1 Evaluation of models
+In order to properly be able to evaluate the performances of our models we need to define a number of
+errors with which to compare them with eachother. In week 12 my teammate Levy Duivenvoorden and I did 
+a brief literature study in order to find a good way in which to measure each of the models performances. 
+We found most of the documentation on the website of [Pytorch](https://pytorch.org/docs/stable/nn.html#loss-functions). 
+This resulted in the following list of errors:
 
 - R2-score: Used to describe the linearity between the predicted value and the actual value [0-1]
 - RMSE (Root Mean Squared Error): describes the root of the mean squared error, most commonly used error function and is fairly sensitive to outliers and peaks in the data. [smaller = better]
 - MAPE (Mean Absolute Percentage Error): describes the average of the absolute percentual difference between the predicted value and the actual value. [smaller = better]
 - MAE (Mean Absolute Error): describes the average of the absolute difference between the predicted value and the actual value. [smaller = better]
 
+The testing of the models was not done by me however, thus will not be further discussed here.
+#### 8.2 Evaluation of team
+If I have to look back on the way in which I have worked together with my team I am quite confident 
+in saying that I have contributed what I could to the team. Although my experience in Python coding 
+was limited I did not give up and instead envy people like Levy, who is fond of programming. 
+Eventhough programming is not necessarily something I would do for a living, this project has been 
+most educational and interesting. It showed me how to use programming to solve real-life problems. 
+If I have to review everyones contribution to the team effort on a scale of 0-100% I would give me 
+and my teammates the following score:
 
+- Amin Mansouri: 8%
+
+- Jefry el Bhwash: 26%
+
+- Levy Duivenvoorden: 31%
+
+- Niels van Schaik: 15%
+
+- Me: 20%
 
 ### 9. Diagnostics of the Learning Process
 One of my prime objectives this minor was to gain more experience with programming in Python, 
@@ -356,3 +379,9 @@ that we flattened some of the negative consumption data to 0 and why we did so. 
 added to the chapter Data Cleaning the reason why we selected only 10% of the data to test on.
 I also wrote a great part of the introduction that was about the former research we studied 
 and why according to our sources we believe its worth trying out the models that we did (MVLR, SVR, LSTM, MLP).
+
+### 11. Wind-up
+I just want to shortly thank all of the teachers that have helped to make this project possible this 
+minor, you are all awesome and I will definetly recommend this minor to my friends! 
+> Here is a cute cat picture and good luck reviewing the rest of the portfolios!
+![cato](cato.jpg)
