@@ -352,7 +352,7 @@ presentation.
 
 Another form of communication I had to attend to were the weekly meetings with our 
 problem owner Salcedo Rahola Baldiri. After week 7 until week 15 my task was to make 
-MC Sway online files through which to briefly present our progress with to our problem 
+MS Sway online files through which to briefly present our progress with to our problem 
 owner. I also had to lead the conversation and whenever a topic was met that someone 
 else had worked more on I had to make sure they got their time to explain their progress. 
 Below is a table with the sway links for each week, though I must mention that these 
