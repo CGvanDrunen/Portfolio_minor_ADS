@@ -146,7 +146,7 @@ or for a great part to me, I will discuss here. Aswell as the other visualisatio
 and help I offered with data preparation after week 8 of the minor when the team 
 started working on models.
 
-When we dirst started analysing the data we discorvered that there were huge spikes in the data, timestamp gaps that would sometimes cover a couple of days 
+When we first started analysing the data we discorvered that there were huge spikes in the data, timestamp gaps that would sometimes cover a couple of days 
 
 #### 6a Heatmap
 Nearing week 8 of the minor the team started moving towards making our first model, 
