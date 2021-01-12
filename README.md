@@ -7,12 +7,11 @@ Student number: 18062814
 3) Project Introduction
 4) Domain Knowledge
 5) Data Collection
-6) Data Preperation
-7) Data Visualisation
-8) Predictive Models 
-9) Evaluation
-10) Diagnostics of the Learning Process
-11) Communication
+6) Data Preperation & Visualisation
+7) Predictive Models 
+8) Evaluation
+9) Diagnostics of the Learning Process
+10) Communication
 
 ### 1. Global View of Contributions
 I have,
@@ -134,24 +133,32 @@ calculation that has to be made for energy consumption as mentioned in the last 
 
 Me and my team did a brainstorm session for each of the datasets for energy production & consumption where we discussed what kind of features could be of use and made several correlation matrices to see which of the features were best to use *ins link to notebook*
 
-### 6. Data Preperation
+### 6. Data Preperation & Visualisation
+During the first 7 weeks of the minor the main tasks we focussed on were that of the 
+weekly tasks our problem owner gave to us. These tasks concerned things like visualising 
+the production & consumption data in order to see whether on a yearly scale the houses 
+were truly 'net zero'. We also discussed things like the appropriate resampling method, 
+where we learned that there is a difference in resample().mean() and resampe().sum() etc. 
+During these first few weeks the team was often more busy with Datacamp and getting 
+familliar with the data, and back then we did not split up tasks too much yet. The tasks 
+that were split up and given to me, or for a great part to me, I will discuss here. Aswell 
+as the other visualisations and help I offered with data preparation after week 8 of the 
+minor when the team started working on models.
+
+#### 6a Heatmap
+
+
+### 7. Predictive Models
 
 
 
-### 7. Data Visualisation
+
+### 8. Evaluation
 
 
 
-### 8. Predictive Models
-
-
-
-### 9. Evaluation
-
-
-
-### 10. Diagnostics of the Learning Process
-One of my prime objectives this minor was to gain more experience with programming in python, 
+### 9. Diagnostics of the Learning Process
+One of my prime objectives this minor was to gain more experience with programming in Python, 
 which I believe I have achieved succesfully. I have learned a lot about both machine learning 
 and neural network models and helped to design them. I practiced with presenting infront of 
 a wide audience this minor, which is always welcome. I also learned to master the Navigator 
@@ -180,7 +187,7 @@ this project:
 (-) Tends to fall to the background in big group efforts
 
 
-### 11. Communication
+### 10. Communication
 During this minor I have done all of the public presentations [Public Presentation week 4](Public_Presentation_week_4.pptx), 
 [Public Presentation week 8](Public_Presentation_week_8.pptx), [Public Presentation week 12](Public_Presentation_week_12.pptx). 
 I also did the open presentation [Open Presentation](Open_presentation_07-01-21.pptx) 
@@ -224,3 +231,5 @@ and where we got weather data from in Data Collection. Adding to that I rewrote 
 of Data cleaning, mainly to make the text more compact but also adding information such as 
 that we flattened some of the negative consumption data to 0 and why we did so. I also 
 added to the chapter Data Cleaning the reason why we selected only 10% of the data to test on.
+I also wrote a great part of the introduction that was about the former research we studied 
+and why according to our sources we believe its worth trying out the models that we did (MVLR, SVR, LSTM, MLP).
