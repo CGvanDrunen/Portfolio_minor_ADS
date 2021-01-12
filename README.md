@@ -181,7 +181,16 @@ Here I just wanted to quickly mention the graph I made for the production data t
 ![production_yeardata_plot](production_yeardata_paper.png)
 
 ### 7. Predictive Models
+When it comes to the models I have been driver at, so the one when working in a duo at that actually 
+writes the code I have written code for the first MVLR we made on production and the final LSTM of 
+production we made for a single house. At the other models (SVR & MLP) I have contributed but not 
+by actually coding anything, rather being the navigator roll and looking things up while the other 
+one is coding. 
 
+#### MVLR production
+
+
+#### LSTM production
 
 
 
