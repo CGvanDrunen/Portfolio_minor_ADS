@@ -271,6 +271,13 @@ the window size.
 
 ### 8. Evaluation
 
+In order to properly be able to evaluate the performances of our models we need to define a number of errors with which to compare them with eachother. In week 12 my teammate Levy Duivenvoorden and I did a brief literature study in order to find a good way in which to measure each of the models performances. We found most of the documentation on the website of [Pytorch](https://pytorch.org/docs/stable/nn.html#loss-functions). This resulted in the following list of errors:
+
+- R2-score: Used to describe the linearity between the predicted value and the actual value [0-1]
+- RMSE (Root Mean Squared Error): describes the root of the mean squared error, most commonly used error function and is fairly sensitive to outliers and peaks in the data. [smaller = better]
+- MAPE (Mean Absolute Percentage Error): describes the average of the absolute percentual difference between the predicted value and the actual value. [smaller = better]
+- MAE (Mean Absolute Error): describes the average of the absolute difference between the predicted value and the actual value. [smaller = better]
+
 
 
 ### 9. Diagnostics of the Learning Process
