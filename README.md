@@ -130,6 +130,8 @@ the house only the worksheet Solar was of importance, from which the feature Sol
 was extracted, representing the total energy produced by the NZEB. For energy consumption 
 2 worksheets were of importance, that of the SmartMeter and that of Solar, due to the 
 calculation that has to be made for energy consumption as mentioned in the last chapter. 
+We also added weather data from a nearby weatherstation in Voorschoten agthered by the KNMI 
+to our production dataset. However that was not done by me so it will not be further discussed here.
 
 ### 6. Data Preperation & Visualisation
 During the first 7 weeks of the minor the main tasks we focussed on were that of the 
@@ -144,7 +146,7 @@ or for a great part to me, I will discuss here. Aswell as the other visualisatio
 and help I offered with data preparation after week 8 of the minor when the team 
 started working on models.
 
-When we first started analysing the data we discorvered that there were huge spikes in the data, timestamp gaps that would sometimes cover a couple of days 
+In week 11 my teammate Jefry el Bwhash and I looked at potential features for a more advanced dataset of energy consumption. We made a pairplot of several features we thought could be of use, described in the following notebook [W11_PairplotConsumption](W11_PairplotConsumption.pdf). 
 
 #### 6a Heatmap
 Nearing week 8 of the minor the team started moving towards making our first model, 
@@ -188,7 +190,13 @@ one is coding.
 #### MVLR production
 
 In week 8 my teammate Jefry el Bhwash and I worked on one of the first models the group made, which 
-is a MVLR on energy production. I was the driver and he would be the navigator. We ended up unable to get the model to work and continued the next week where we did manage to get the model to work. The results were a bit too good to be true (R2-score of 0.98 on the validation set), and indeed the model was validated on only 1 day, this was most likey pure luck. The eventual MVLR me and my team made for production on multiple houses had a much more realistic score but I again was only navigator there and did not write any code thus it will not be discussed here. In the following notebook the whole performance of the first MVLR Jefry and I made is documented [W09_MVLR_production](W09_MVLR.pdf).
+is a MVLR on energy production. I was the driver and he would be the navigator. We ended up unable 
+to get the model to work and continued the next week where we did manage to get the model to work. 
+The results were a bit too good to be true (R2-score of 0.98 on the validation set), and indeed the 
+model was validated on only 1 day, this was most likey pure luck. The eventual MVLR me and my team 
+made for production on multiple houses had a much more realistic score but I again was only navigator 
+there and did not write any code thus it will not be discussed here. In the following notebook the 
+whole performance of the first MVLR Jefry and I made is documented [W09_MVLR_production](W09_MVLR.pdf).
 
 #### LSTM production
 In week 15 the team and I had just finished writing a more simpel and understandable version of LSTM 
