@@ -131,8 +131,6 @@ was extracted, representing the total energy produced by the NZEB. For energy co
 2 worksheets were of importance, that of the SmartMeter and that of Solar, due to the 
 calculation that has to be made for energy consumption as mentioned in the last chapter. 
 
-Me and my team did a brainstorm session for each of the datasets for energy production & consumption where we discussed what kind of features could be of use and made several correlation matrices to see which of the features were best to use *ins link to notebook*
-
 ### 6. Data Preperation & Visualisation
 During the first 7 weeks of the minor the main tasks we focussed on were that of the 
 weekly tasks our problem owner gave to us and finding literature. These tasks concerned 
