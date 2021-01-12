@@ -158,7 +158,7 @@ Levy Duivenvoorden we made the following notebook [Heatmap_production](Heatmap_n
 contains the code for the first heatmap we made, where we also showed the houses that are 
 now left out (marked white) due to too high quantity of timestamp gaps greater than 1 hr shown below
 
-![Heatmap_production_v1](Heatmap_production_wild.png)
+![Heatmap_production_v1](Heatmap_production_raw.png)
 The final heatmap we made for production is desplayed below.
 
 ![Heatmap_production_v2](Heatmap_production.png)
