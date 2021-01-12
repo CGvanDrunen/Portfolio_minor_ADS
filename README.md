@@ -149,7 +149,16 @@ started working on models.
 When we dirst started analysing the data we discorvered that there were huge spikes in the data, timestamp gaps that would sometimes cover a couple of days 
 
 #### 6a Heatmap
-Nearing week 8 of the minor the team started moving towards making our first model, which would be a MVLR. In order to know which houses to use for our dataset we had to get a clear overview of the amount of inconsistencies within the data per house. We decided to do this through making a heatmap of the columns within the worksheets we thought were perhaps useful for energy production at the time. Together with my teammate Levy Duivenvoorden we made the following notebook [Heatmap_v1](Heatmap_np.pdf) which used to contain also the first heatmap we made where we also showed the houses that are now left out (marked white) due to too high quantity timestamp difference. However due to a mistake by me I later wrote the code over and made the final heatmap which is displayed bellow. 
+Nearing week 8 of the minor the team started moving towards making our first model, 
+which would be a MVLR SVR. In order to know which houses to use for our dataset we 
+had to get a clear overview of the amount of inconsistencies within the data per house. 
+We decided to do this through making a heatmap of the columns within the worksheets we 
+thought were perhaps useful for energy production at the time. Together with my teammate 
+Levy Duivenvoorden we made the following notebook [Heatmap_v1](Heatmap_np.pdf) which 
+used to contain also the first heatmap we made where we also showed the houses that are 
+now left out (marked white) due to too high quantity timestamp difference. However due 
+to a mistake by me I later wrote the code over and made the final heatmap which is 
+displayed bellow. 
 
 ![Heatmap_production](Heatmap_production.png)
 
