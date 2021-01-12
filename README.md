@@ -189,10 +189,12 @@ one is coding.
 
 #### MVLR production
 
+In week 8 my teammate Jefry el Bhwash and I worked on one of the first models the group made, which 
+is a MVLR on energy production. I was the driver and he would be the navigator. We ended up unable to get the model to work and continued the next week where we did manage to get the model to work. The results were a bit too good to be true (R2-score of 0.98 on the validation set), and indeed the model was validated on only 1 day, this was most likey pure luck. The eventual MVLR me and my team made for production on multiple houses had a much more realistic score but I again was only navigator there and did not write any code thus it will not be discussed here. In the following notebook the whole performance of the first MVLR Jefry and I made is documented [W09_MVLR_production](W09_MVLR.pdf).
 
 #### LSTM production
 In week 15 the team and I had just finished writing a more simpel and understandable version of LSTM 
-we already had. Since the one we made together with Brian had become a mess in which we did not know 
+we already had. Since the one we made together with Brian had become a mess which we did not know 
 how to improve. My job was to make the new LSTM work for the production data of 1 house, I made the 
 following notebook [W15_LSTM_productionV03](W15_LSTMProductionSimpleV03.pdf). During this process me and my teammate Jefry el Bhwash who was working on 
 the consumption LSTM parallel to me ran into a couple of problems:
